@@ -1,17 +1,17 @@
 # 1)
-1-a)
+##### 1-a)
 
 - [22,27,16,2,18,6]
 - [2,27,16,22,18,6]
 - [2,6,16,22,18,27]
 - [2,6,16,18,22,27]
 
-1-b)
+##### 1-b)
 
 (n²+n)/2 olduğu için gösterimi;
 O(n²)
 
-1-c)
+##### 1-c)
 
 18 dizinin sıralanmış halinin ortasında olduğu için "Avarage Case"'dir
 
