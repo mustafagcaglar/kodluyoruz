@@ -17,5 +17,5 @@
 # 2)
 
 2^x=n
-logn=x olduğu için
+logn=x olduğu için gösterimi ;
 O(nlogn)
