@@ -1,4 +1,4 @@
-1)
+#1)
 1-a)
 
 - [22,27,16,2,18,6]
@@ -15,7 +15,8 @@ O(n²)
 
 18 dizinin sıralanmış halinin ortasında olduğu için "Avarage Case"'dir
 
-2)
+
+#2)
 
 - [7,3,5,8,2,9,4,15,6]
 - [2,3,5,8,7,9,4,15,6]
